@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD7980AC-41E6-4B56-9F35-046E33F97EDE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JWNewsChannelView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AAD831315F887E1A2FE3A0572B22CBDC48D0AA9E</key>
+		<string>https://github.com/zypsusu/LabelAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JWNewsChannelView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AAD831315F887E1A2FE3A0572B22CBDC48D0AA9E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zypsusu/LabelAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AAD831315F887E1A2FE3A0572B22CBDC48D0AA9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAD831315F887E1A2FE3A0572B22CBDC48D0AA9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LabelAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
